@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.box {
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    border: 2px solid gray;
+    background-image: url(https://media.istockphoto.com/id/483985318/vi/vec-to/bi-a-b%C3%B3ng-vector-s%E1%BB%91-9.jpg?s=2048x2048&w=is&k=20&c=Fvn4EHGKelJKyVjsSxYUXF6vKMg43IkG5O6VXQ2vOvE=);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+.content {
+    background: #f0f0f0;
+}
+.padding {
+    padding: 5px;
+    background: green;
+    border: 2px ;
+}
+.padding1 {
+    padding: 5px;
+    background: yellow;
+    border: 2px ;
+}
+.padding3 {
+    padding: 5px;
+}
