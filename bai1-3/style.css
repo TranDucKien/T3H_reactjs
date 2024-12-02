@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.box {
+    width: 900px;
+    height: 600px;
+    padding: 5px;
+    border: 2px solid gray;
+    background-image: url(https://imagev3.vietnamplus.vn/h600/Uploaded/2024/mzdic/2022_05_29/realvodich1.jpg.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+
+}
+.content {
+    text-align: center;
+    background-color: #f0f0f0;
+}
